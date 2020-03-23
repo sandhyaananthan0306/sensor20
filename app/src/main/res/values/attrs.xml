@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Thermometer"></declare-styleable>
+    <declare-styleable name="Thermometer_radius"></declare-styleable>
+    <declare-styleable name="Thermometer_middleColor"></declare-styleable>
+    <declare-styleable name="Thermometer_outerColor"></declare-styleable>
+    <declare-styleable name="Thermometer_innerColor"></declare-styleable>
+</resources>
